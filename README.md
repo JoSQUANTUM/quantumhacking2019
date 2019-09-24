@@ -2,7 +2,7 @@
 
 ## Team Fuzzy Bell: Secure Communication with entangled particles
 
-* [Thomas Decker](), [Mar Gomez](),
+* [Thomas Decker](), [Mar Gomez](), [Krystian Gaus]()
 * The challenge:
   > Stock exchanges need to talk and compare order
 books as fast as possible. Therefore, the communications between
@@ -17,7 +17,7 @@ entanglement” or “CMI entanglement” promises to deliver a good measure. St
 with the help of a squashed entangled pair for bipartite quantum system, communicate secure
 and faster in pre- and postprocessing.
 
-## Team Quantumacy: Finding arbitrage opportunities
+## Team Quantumassy: Finding arbitrage opportunities
 
 * [Yvo Keuter](https://github.com/ykeuter), [Davit Khachatryan](https://github.com/DavitKhach), and [Olli Ahonen](https://github.com/olliahonen)
 * The challenge:
@@ -28,9 +28,9 @@ The challenge is to create a QAOA which can be mapped onto an arbitrage cycle an
 
 ## Team TheWalker; Quantum Random Walks
 
-* [Sami Boulebname](https://github.com/sami-b95), [Leonhard Neuhaus](https://github.com/lneuhaus), [Jan Glatz](), [Cristeam Caiola](), [Josif Levant](), [Krystian Gaus](), [Manfred Rieck](), [Peter Eder]()
+* [Sami Boulebname](https://github.com/sami-b95), [Leonhard Neuhaus](https://github.com/lneuhaus), [Jan Glatz](), [Cristeam Caiola](), [Josif Levant](), [Manfred Rieck](), [Peter Eder]()
 
-* The challnge:
+* The challenge:
   > The random walk theory suggests that changes in stock prices have the
 same distribution and are independent of each other, therefore, the past movement or trend of a
 stock price or market cannot be used to predict its future movement. The theory implies that
