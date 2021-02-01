@@ -1,4 +1,4 @@
-# quantumhacking2019
+# quantumhacking2019 (Hackathon in Frankfurt organized by JoS QUANTUM in 2019)
 
 ## Team Fuzzy Bell: Secure Communication with entangled particles
 
